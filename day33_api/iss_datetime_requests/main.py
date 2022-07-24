@@ -6,8 +6,8 @@ vrn_lat = 51.677073
 vrn_lng = 39.176903
 current_hour = datetime.datetime.now().hour
 
-my_email = 'yndx-serg-koltunov@yandex.ru'
-yandex_app_password = 'xbcanufiuyquoako'
+my_email = 'email'
+yandex_app_password = 'password'
 smtp_server = 'smtp.yandex.ru'
 subject = 'MKS nad tvoey golovoi'
 
