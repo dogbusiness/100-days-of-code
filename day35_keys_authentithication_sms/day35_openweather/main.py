@@ -3,7 +3,7 @@ import os
 # one_call_api_request = 'https://api.openweathermap.org/data/2.5/onecall'
 # prepod_api_key = '69f04e4613056b159c2761a9d9e664d2'
 parameters = {
-    'appid': '97b62f37dd9ad7b18b23c2e0589348bf',
+    'appid': 'something',
     'lon': 39.17,
     'lat': 51.6664,
     'exclude': 'current,minutely',
